@@ -1,0 +1,111 @@
+body{
+  font-family: "Bebas Bold";
+  margin: 0%;
+}
+
+h1 {
+  color: black;
+}
+
+a {
+  font-size: 2vw;
+  margin-right: 6%;
+  text-decoration: none;
+  color: #fff;
+}
+
+#navigation {
+  margin-left: 72%;
+  margin-top: 1%;
+  position: fixed;
+  z-index: 5;
+  width: 30%;
+}
+
+#secondDiv {
+  background-color: #C4EEED;
+  display: inline-block;
+  padding-bottom: 6%;
+}
+
+#tropicalBlend {
+  font-size: 2vw;
+  margin-left: 3%;
+  position: fixed;
+  color: #fff;
+  z-index: 5;
+}
+
+#topImage {
+  width: 100%;
+}
+
+#slogan{
+  font-size: 9vw;
+  font-family:;
+  margin-left: 25%;
+  width: 50%;
+  text-align: center;
+  font-family: 'Bebas Bold';
+  position: absolute;
+  color: #fff;
+  margin-top: 22%;
+  text-shadow: 0px 2px 20px black;
+}
+
+@font-face {
+  font-family: 'Bebas Bold';
+  src: url(fonts/bebas_bold.otf);
+}
+
+#secondImage{
+  width: 35%;
+  position: absolute;
+  right: 5%;
+  margin-top: 15%;
+}
+
+#flavors{
+  font-size: 8vw;
+  width: 100%;
+  text-align: center;
+  color: #6890A2;
+}
+
+#aboutParagraph{
+  font-size: 2.5vw;
+  width: 50%;
+  margin-left: 5%;
+  color: #6890A2;
+}
+
+#thirdImage{
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+}
+
+#secondSlogan{
+  font-size: 8vw;
+  margin-left: 27%;
+  color: #fff;
+  margin-top: 10%;
+}
+
+#order{
+  font-size: 4vw;
+  margin-left: 45%;
+}
+
+
+#topDiv {
+  width: 100%;
+  position: relative;
+  background-color: #C4EEED;
+}
+
+#thirdDiv {
+  width: 100%;
+  position: relative;
+  display: inline-block;
+}
